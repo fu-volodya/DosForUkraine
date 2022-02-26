@@ -12,9 +12,9 @@ Load some russian websites once per second
 git clone https://github.com/fu-volodya/DosForUkraine.git
 ```
 
-4. Run `docker-compose -d --build` to start sending requests
+4. Run `docker-compose --build` to start sending requests
 
-5. When you want to stop, run `docker-compose down`
+5. When you want to stop, run `docker-compose down` (in other terminal window) or hit CTRL-C.
 
 ## What it does
 
