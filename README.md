@@ -7,7 +7,10 @@ Load some russian websites once per second
 
 2. Install git following the instructions for your system [here](https://git-scm.com/downloads).
 
-3. Clone this code.
+3. Clone this code by running the following using terminal.
+```
+git clone https://github.com/fu-volodya/DosForUkraine.git
+```
 
 4. Run `docker-compose -d --build` to start sending requests
 
