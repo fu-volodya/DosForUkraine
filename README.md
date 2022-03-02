@@ -3,6 +3,8 @@ Load some russian websites once per second
 
 ## Installation
 
+If you are running an operating system (*nix) that can run shell scripts, you can simply run `./send_requests.sh`. If not, follow the instructions below.
+
 1. Install Docker following the instructions for your system [here](https://docs.docker.com/get-docker/).
 
 2. Install git following the instructions for your system [here](https://git-scm.com/downloads).
